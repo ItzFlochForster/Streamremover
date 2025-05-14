@@ -12,7 +12,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8179604363:AAHUvF_Rs95t23XT057nfhh8ROVB
 CAPTION = os.environ.get("CAPTION", "")
 DATABASE_URI = os.environ.get("DATABASE_URI", "naomi")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
-ADMIN = int(os.environ.get("ADMIN", 6440021089'))
+ADMIN = int(os.environ.get("ADMIN", '6440021089'))
 #ALL FILES UPLOADED - CREDITS 🌟 - @Sunrises_24
 SUNRISES_PIC= "https://envs.sh/lHg.jpg"  # Replace with your Telegraph link
 LOG_CHANNEL_ID = os.environ.get("LOG_CHANNEL_ID", -1002134572304)
